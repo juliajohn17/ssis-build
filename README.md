@@ -1,3 +1,4 @@
+My first learning with Github
 
 # **SSISBuild**
 A set of utilities that allow to autonomously build a Visual Studio SSIS project (dtproj) into a deployment package (ispac), and deploy the package to an SSIS catalog. Project deployment model only. This set is distributed via a nuget package and can be dewnloaded locally and used from and build server environment through a Windows batch file or a Windows Powershell script. Utilities do not use any Microsoft SSIS or Visual Studio components, so there is no additional installation is needed on the build server.
